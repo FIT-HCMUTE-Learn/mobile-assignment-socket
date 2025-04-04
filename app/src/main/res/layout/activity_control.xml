@@ -6,16 +6,8 @@
     android:gravity="center">
 
     <Button
-        android:id="@+id/btnConnect"
+        android:id="@+id/btnSendData"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Kết Nối Server" />
-
-    <TextView
-        android:id="@+id/txtStatus"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Trạng thái: Chưa kết nối"
-        android:textSize="18sp"
-        android:layout_marginTop="20dp"/>
+        android:text="Gửi Dữ Liệu" />
 </LinearLayout>
